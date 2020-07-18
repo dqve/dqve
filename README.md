@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my github 😊
+Welcome to my github page 😊
 - ⚡ Fun fact, I started building a professional portfolio 🕺🏽🕺🏽, check out my progress here: [dqve.github.io](https://dqve.github.io)
 <!--
 - 🌱 I’m currently learning Swift to strengthen my skills in ios development (what about android? I know Flutter and some Java 😅),
