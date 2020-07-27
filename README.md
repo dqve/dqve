@@ -9,7 +9,7 @@ hopefully some interesting repo's spring up here soon ⚡⚡
 - 📫 How to reach me? kindly send an email to [ayooladavid@outlook.com](mailto:ayooladavid@outlook.com)
 ##### CHEERS!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dqve)](https://github.com/anuraghazra/github-readme-stats)
+[![David's github stats](https://github-readme-stats.vercel.app/api?username=dqve&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dqve/dqve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
