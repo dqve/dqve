@@ -3,7 +3,8 @@
 Welcome to my github page 😊
 
 I am a full stack javascript developer and more!
-- 🔭 Although I am working on fewer personal projects these days, I have some interesting things cooking. Watchout...
+
+🔭 Although I am working on fewer personal projects these days, I have some interesting things cooking. Watchout...
 
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
