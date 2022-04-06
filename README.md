@@ -1,3 +1,8 @@
+
+<a href="https://davidayo.netlify.app">
+    <img src="https://davidayo.netlify.app/static/media/david.9f8527dd34a11c4efbd5.png" alt="Website image" style="vertical-align:top margin:6px 4px">
+ </a> 
+ 
 ### Hi there :grinning: 👋
 
 Welcome to my github page 😊
@@ -32,10 +37,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://davidayo.netlify.app">
-    <img src="https://davidayo.netlify.app/static/media/david.9f8527dd34a11c4efbd5.png" alt="Website image" style="vertical-align:top margin:6px 4px">
- </a> 
-
 
 ## :construction: I build with:
 <a href="https://javascript.com/">
@@ -59,12 +60,12 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="node badge" style="vertical-align:top margin:6px 4px">
  </a>  
 
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/dev/languages/swift.svg" alt="swift badge" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
 <a href="https://python.org/">
     <img src="https://github.com/ipinmi/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python badge" style="vertical-align:top margin:6px 4px">
- </a>
-
-<a href="https://flutter.com/">
-    <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/dev/frameworks/flutter.svg" alt="flutter badge" style="vertical-align:top margin:6px 4px">
  </a>
 
  <a href="https://code.visualstudio.com/">
@@ -84,6 +85,10 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/social/linkedin.svg" alt="linkedin badge" style="vertical-align:top margin:6px 4px">
  </a> 
 
+<a href="https://davidayo.netlify.app/">
+  <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/dev/misc/web.svg" alt="website badge" style="vertical-align:top; margin:6px 4px">
+</a> 
+  
 ### GitHub Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dqve)](https://github.com/dqve/)
 
