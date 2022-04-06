@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://davidayo.netlify.app">
+    <img src="https://davidayo.netlify.app/static/media/david.9f8527dd34a11c4efbd5.png" alt="Website image" style="vertical-align:top margin:6px 4px">
+ </a> 
 
 
 ## :construction: I build with:
