@@ -4,7 +4,9 @@
     <img src="https://davidayo.netlify.app/static/media/david.9f8527dd34a11c4efbd5.png" alt="Website image" style="width:700px; vertical-align:top margin:6px 4px">
  </a> 
 </p>
- 
+
+                                                           Click me 😊
+<!--  
 ### Hi there :grinning: 👋
 
 Welcome to my github page 😊
@@ -13,7 +15,7 @@ I am a full stack javascript developer and more!
 
 🔭 I usually be hacking around with a cup of coffee, blue light glasses, 300+ open chrome tabs and a text editor 🙃...
 
-![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) -->
 
 <!--
 - 🌱 I’m currently learning Swift to strengthen my skills in ios development (what about android? I know Flutter and some Java 😅),
@@ -39,7 +41,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!-- 
 ## :construction: I build with:
 <a href="https://javascript.com/">
     <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript badge" style="vertical-align:top margin:6px 4px">
@@ -92,6 +94,7 @@ Here are some ideas to get you started:
 </a> 
 <!--   
 ### GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dqve)](https://github.com/dqve/) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dqve)](https://github.com/dqve/)
 
 ##### CHEERS!
+ -->
