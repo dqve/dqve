@@ -5,7 +5,7 @@
  </a> 
 </p>
 
-    * Click me ⬆️ 😊
+    * Click the picture ⬆️ 😊
 <!--  
 ### Hi there :grinning: 👋
 
