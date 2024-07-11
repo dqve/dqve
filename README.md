@@ -7,9 +7,10 @@
 
     * Click the picture to learn about me ⬆️ 😊
 
-### Stats:
+
 
 <!-- 
+### Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dqve&show_icons=true&locale=en&layout=compact&theme=onedark" alt="dqve" /></p>
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dqve&show_icons=true&locale=en&theme=onedark" alt="dqve" /></p>
