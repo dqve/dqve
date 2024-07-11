@@ -5,8 +5,18 @@
  </a> 
 </p>
 
-    * Click the picture ⬆️ 😊
-<!--  
+    * Click the picture to learn about me ⬆️ 😊
+
+### Stats:
+
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dqve&show_icons=true&locale=en&layout=compact&theme=onedark" alt="dqve" /></p>
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dqve&show_icons=true&locale=en&theme=onedark" alt="dqve" /></p>
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dqve&theme=onedark" alt="dqve" /></p>
+
+
 ### Hi there :grinning: 👋
 
 Welcome to my github page 😊
