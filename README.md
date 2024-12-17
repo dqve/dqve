@@ -1,13 +1,5 @@
-<p align="center">
-    
-<a href="https://davidayo.netlify.app">
-    <img src="https://davidayo.netlify.app/static/media/david.9f8527dd34a11c4efbd5.png" alt="Website image" style="width:700px; vertical-align:top margin:6px 4px">
- </a> 
-</p>
 
-    * Click the picture to learn about me ⬆️ 😊
-
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dqve" alt="dqve" /></a> </p>
 
 <!-- 
 ### Stats:
