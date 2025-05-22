@@ -1,5 +1,5 @@
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dqve&theme=onedark&rank=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B&column=-1" alt="dqve" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dqve&theme=onedark&rank=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC,CC,C&column=-1" alt="dqve" /></a> </p>
 
 <!-- 
 ### Stats:
