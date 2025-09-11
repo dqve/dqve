@@ -1,8 +1,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dqve&theme=onedark&rank=nord&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1" alt="dqve" /></a> </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dqve&theme=onedark" alt="dqve" /></p>
-
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dimola_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dimola_" /></a></p><br><br> -->
 
@@ -13,7 +11,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dqve&show_icons=true&locale=en&theme=onedark" alt="dqve" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dqve&theme=onedark" alt="dqve" /></p>
-
+<br/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dqve&theme=onedark" alt="dqve" /></p>
 
 ### Hi there :grinning: 👋
 
