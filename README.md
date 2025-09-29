@@ -1,5 +1,5 @@
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dqve&theme=onedark&rank=nord&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1" alt="dqve" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dqve&theme=onedark&rank=nord&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1&no-frame=true&no-bg=true&margin-w=15" alt="dqve" /></a> </p>
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dimola_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dimola_" /></a></p><br><br> -->
